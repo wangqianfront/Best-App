@@ -1,27 +1,20 @@
 
-Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/trend.png)
+Best App
 ----
 
-*经常会有朋友想知道有哪些 Apps 或 服务 是值得付费来使用的，或者有哪些可以改善生活的优质产品，
-于是创建了这个 List 项目，旨在让推荐变得有章可循*
 
 ## 总目录
 
 欢迎大家推荐好的 App/产品 加入，请`Star`、`Pull Request`或在 [收集&提交页] 中提交 :)
 
-1. [付费 Apps 推荐列表(Mac OS)](https://github.com/hzlzh/Best-App/blob/master/README.md)
-2. [付费 Apps 推荐列表(iOS & Cydia)](https://github.com/hzlzh/Best-App/blob/master/Best-App-iOS.md)
-3. [免费 Apps 推荐(Mac OS)](https://github.com/hzlzh/Best-App/blob/master/Best-App-Mac-Free.md) - 整理中...
-4. [免费 Apps 推荐列表(iOS & Cydia)](https://github.com/hzlzh/Best-App/blob/master/Best-App-iOS-Free.md) - 整理中...
-5. [苹果设备 周边&配件 推荐列表](https://github.com/hzlzh/Best-App/blob/master/Best-Accessories-Apple.md)
-6. [付费 Apps 推荐列表(Android)](https://github.com/hzlzh/Best-App/blob/master/Best-App-Android.md) - 整理中...
-7. [改善生活+提升幸福度物品 推荐列表](https://github.com/hzlzh/Best-App/blob/master/Best-Life-Products.md) - 整理中...
+1. [付费 Apps 推荐列表(Mac OS)](https://github.com/wangqianfront/Best-App/blob/master/README.md)
+2. [付费 Apps 推荐列表(iOS & Cydia)](https://github.com/wangqianfront/Best-App/blob/master/Best-App-iOS.md)
+3. [免费 Apps 推荐(Mac OS)](https://github.com/wangqianfront/Best-App/blob/master/Best-App-Mac-Free.md) 
+4. [免费 Apps 推荐列表(iOS & Cydia)](https://github.com/wangqianfront/Best-App/blob/master/Best-App-iOS-Free.md) - 
+5. [苹果设备 周边&配件 推荐列表](https://github.com/wangqianfront/Best-App/blob/master/Best-Accessories-Apple.md)
+6. [付费 Apps 推荐列表(Android)](https://github.com/wangqianfront/Best-App/blob/master/Best-App-Android.md)
+7. [改善生活+提升幸福度物品 推荐列表](https://github.com/wangqianfront/Best-App/blob/master/Best-Life-Products.md) - 
 
-====
-
->注1：以下功能简述中不再使用 `最好的`、`最强的`、`最完美的` 等主观性较强的表达，因为默认此列表中的 Apps 都是非常出色的。  
->注2：行末的 **#** 为相关 测评文章 或 同类横向对比文章 链接，请自行参阅。  
->注3：本项目 **不接受** 任何形式的捐赠、资助或广告。
 
 ## 1. 付费软件篇 (Mac OS)
 
@@ -94,6 +87,9 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 <a href="#WiFi-Explorer" name="WiFi-Explorer">★</a>★★   | [WiFi Explorer] | 深度解读身边 WiFi 信号，了如指掌 | $2.99 | [#](http://mac.appstorm.net/reviews/utilities/wifi-explorer-the-wireless-swiss-army-knife/)
 <a href="#WiFi-Scanner" name="WiFi-Scanner">★</a>★★   | [WiFi Scanner] | 同上，另一款，冰点中 | $0.99 | [#](http://download.cnet.com/WiFi-Scanner/3000-18508_4-75017924.html)
 <a href="#Moneywiz" name="Moneywiz">★</a>★★   | [Moneywiz] | 记账软件，支持iOS平台 | $24.99 | [#](http://mac.appstorm.net/reviews/productivity-review/moneywiz-simple-yet-powerful-mac-money-management/)
+
+
+
 #### 1.2 开发类
 
 评分   | 名称  | 功能简述 | 单价 | 测评
